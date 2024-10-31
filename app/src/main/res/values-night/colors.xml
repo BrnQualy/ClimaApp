@@ -1,0 +1,11 @@
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+
+    <color name="green_500">#4CAF50</color>
+    <color name="white">#FFFFFF</color>
+    <color name="tabBackground">#4CAF50</color>
+    <color name="tabSelectedTextColor">#3700B3</color>
+    <color name="tabUnselectedTextColor">#3700B3</color>
+</resources>
